@@ -29,5 +29,5 @@ if '%errorlevel%' NEQ '0' (
     CD /D "%~dp0"
 
 REM you can remove the 'powershell' to get an admin CMD
-start
+REM start
 
